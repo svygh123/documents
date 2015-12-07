@@ -1,8 +1,8 @@
 #AndroidStudio比Eclipse好用在哪里
 
-* **Android Studio是一个全新的基于`IntelliJ IDEA`的Android开发环境。  **
-+ __Android Studio提供了集成的Android开发工具用于开发和调试，自动化构件工具也集成了。  __
-- __Android Studio2.0预览版已经出来了，已经比较稳定了。__
+* **Android Studio是一个全新的基于`IntelliJ IDEA`的Android开发环境。**
++ **Android Studio提供了集成的Android开发工具用于开发和调试，自动化构件工具也集成了。**
+- **Android Studio2.0预览版已经出来了，已经比较稳定了。**
 
 下面列举来一下AndroidStudio有的eclipse没的，下面的功能eclipse基本上没有，不过不代表有的就一定是好的，但是有这些东西了，还运行得那么快，那就不得不佩服了：
 
