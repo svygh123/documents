@@ -4,7 +4,8 @@ Android Studio提供了集成的Android开发工具用于开发和调试，自�
 
 Android Studio2.0预览版已经出来了，已经比较稳定了。
 下面列举来一下AndroidStudio有的eclipse没的，下面的功能eclipse基本上没有，不过不代表有的就一定是好的，但是有这些东西了，还运行得那么快，那就不得不佩服了：
-1. 自动保存功能，再也不用频繁的戳Ctrl+S了，因此S在这里是Setting的简写。
+1.自动保存功能，再也不用频繁的戳Ctrl+S了，因此S在这里是Setting的简写。
+
 2. 鼠标移到左侧滚动条，有预览该处的代码矩形框，再也不用拖动滚动条了，移动鼠标即可。
 3. 左/右/下区域框自动隐藏设置，点击区域框右上角的设置图标，将Docked Mode去掉勾选。
 4. 自带团队开发工具：GitHub,CVS,Git,Google Cloud,Mercurial,Subversion。
