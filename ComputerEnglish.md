@@ -2,7 +2,7 @@
 
 摘引 http://kinghy.bokee.com/
 
-1. file n. 文件;v. 保存文件
+1. file n. 文件;v. 保存文件 `A file list can be accessed when you select a file using an HTML file input. `
 2. command n. 命令,指令
 3. use v. 使用,用途
 4. program n. 程序
