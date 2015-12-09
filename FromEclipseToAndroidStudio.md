@@ -16,5 +16,6 @@
 8. Android Monitor，实时动态无刷新自右向左滚动显示：Memory(内存)/CPU(中央处理器)/GPU(图形处理器)/Network(网络)  这些在计算机的使用情况。
 9. 捕获快照。有时候我们的服务器突然就死机了或者登陆不上了，这时候我们就要监控java堆和内存分配情况，而捕获快照就是捕获监控过程保存下来然后分析。java堆捕获快照方法是单击Android Monitor里面的![heap dump](images/studio-dump-heap-icon.png "heap dump")，然后在左侧区域的Captures页签能看到Head Snapshort下的子节点就是我们保存的捕获到的java堆快照，然后你就可以分析了，你也可以导出这个文件，右键Export to standard .hprof；内存分配情况捕获快照方法是单击Android Monitor里面Memory页签的Start/Stop Allocation Tracking图标![memory allocation](images/studio-allocation-tracker-icon.png "memory allocation")，是区域捕获，所以要点一次开始，然后点一次结束，捕获一段快照，然后在左侧区域的Captures页签能看到Allocation Tracking下的子节点就是我们保存内存分配情况快照，这个不用导出，直接右键该文件->`Show in Explorer`就能得到这个文件了。
 10. 异常提醒及跳转精确到光标列位置。如TypeError: Cannot call method 'init' of undefined at Object.init (file:///android_asset/www/js/factory.js:136:35)，相信这种异常不会陌生吧，接下来就打开factory.js然后定位到136行35列，怎么快捷定位呢，用快捷键，打开资源文件在Android Studio里面是`Ctrl+Shift+N`，而Eclipse里面则是`Ctrl+Shift+R`，打开了吧，定位到行列在Android Studio里面是Ctrl+G(Excel也是这个)，而Eclipse里面则是`Ctrl+L`，这太麻烦了吧，要用2次快捷键，其实可以用一次的，直接复制`factory.js:136:35`然后`Ctrl+Shift+N`，如果搜索结果在第一个，直接再回车，而且在输入过程中不卡顿，Android Studio想的真周到。关于这2个工具的快捷键对照，已有文章专门列举。
-11. 未完待续......
+11. 点击项目树，直接按键入字母即可查询，不过只能查找展开之后的文件
+12. 未完待续......
 
