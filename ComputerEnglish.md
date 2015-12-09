@@ -1705,3 +1705,4 @@
 1701. policy n. 策略,政策,保险单,策略性
 1702. means n. 工具,方法,途径,措施,手段 e.g.`Cordova is a means of packaging html/css/js into apps.`
 1703. plugin n. 插件
+1704. myriad n. & adj. 大量(的),无数(的)
