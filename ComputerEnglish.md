@@ -14,6 +14,7 @@
 10. list n. 列表,显示,v. 打印
 11. by prep. 凭,靠,沿
 12. press v. 按,压
+13. merge. v. 合并,融合,兼并
 14. format n. 格式
 15. change v. 更换,改变,变动
 16. cursor n. 光标
