@@ -1697,10 +1697,11 @@
 1693. digital a. 数字的
 1694. combo n. 二进位组合码
 1695. cord n. 绳子,电线
-1696. front end n.前端
-1697. prerequisite n.先决条件,前提,必要条件
-1698. tray n.托盘,钩子
-1699. fetch 
-1700. revision n.修订,修改,修订本,校对,复审,上诉(简写rev)
-1701. policy n.策略,政策,保险单,策略性
-1702. means n.工具,方法,途径,措施,手段 e.g.`Cordova is a means of packaging html/css/js into apps.`
+1696. front end n. 前端
+1697. prerequisite n. 先决条件,前提,必要条件
+1698. tray n. 托盘,钩子
+1699. fetch v. & n. 取得
+1700. revision n. 修订,修改,修订本,校对,复审,上诉(简写rev)
+1701. policy n. 策略,政策,保险单,策略性
+1702. means n. 工具,方法,途径,措施,手段 e.g.`Cordova is a means of packaging html/css/js into apps.`
+1703. plugin n. 插件
