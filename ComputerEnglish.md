@@ -1,5 +1,7 @@
 #计算机专业英语1700+词
-摘引 http://kinghy.bokee.com
+
+摘引 http://kinghy.bokee.com/
+
 1. file n. 文件;v. 保存文件
 2. command n. 命令,指令
 3. use v. 使用,用途
@@ -87,7 +89,7 @@
 87. value n. 值
 88. button n. 按钮
 89. index n. 索引,变址,指数
-90. 
+90. hack v. 处理,非法入侵
 91. appear vi. 出现,显现,好像
 92. left a. & n. 左边(的)
 93. save v. 保存
