@@ -949,7 +949,7 @@
 945. terminal n. 终端,端子
 946. door n. 舱门,入口,孔
 947. expire v. 终止,期满
-948. resolution n. 分辨率
+948. resolution n. 解决,分辨率
 949. local a. 局部的,本地的
 950. semicolon n. 分号(;)
 951. reread vt. 重读
@@ -1005,7 +1005,7 @@
 1001. tool n. 工具,刀
 1002. handler n. 处理程序
 1003. processor n. 处理机,处理程序
-1004. desktop a. 台式的
+1004. desktop n. 桌面
 1005. build v. 建造,建立,组合
 1006. windowing n. 开窗口
 1007. development n. 开发,研制,显影
@@ -1356,7 +1356,7 @@
 1352. ship n. 舰,船
 1353. british a. & n. 英国的;英国人
 1354. parallel a. 并行
-1355. custom a. & n. 常规的,惯例;用户
+1355. custom a. & n. 常规的,定制的;惯例,用户
 1356. congratulation n. 祝贺
 1357. protection n. 保护
 1358. glass n. 玻璃
@@ -1706,3 +1706,11 @@
 1702. means n. 工具,方法,途径,措施,手段 e.g.`Cordova is a means of packaging html/css/js into apps.`
 1703. plugin n. 插件
 1704. myriad n. & adj. 大量(的),无数(的)
+1705. stash v. 隐藏,储藏 n. 隐藏地点,隐藏物
+1706. amend v. 修正,改进
+1707. status n. 状态,状况,情形,地位,身份
+1708. meld v. & n. 合并
+1709. diffuse v. 扩散,散开,传播
+1710. commit v. 把...提交给
+1711. complicate adj. 复杂的
+1712. debatable adj. 有疑问的,有争议的,成问题的
