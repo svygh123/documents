@@ -7,6 +7,7 @@
 3. use v. 使用,用途
 4. program n. 程序
 5. line n. (数据,程序)行,线路
+6. hook n. 钩,挂钩,相关
 7. display vt. 显示,显示器
 8. set v. 设置,n. 集合
 9. key n. 键,关键字,关键码
