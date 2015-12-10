@@ -7,7 +7,7 @@
 * `Ctrl + Shift + Backspace` : 返回上次编辑的地方
 * `Ctrl + Y` : 删除一行
 * `Ctrl + D` : 复制上一行或复制选定
-* `Ctrl + W` : 选中词，可按多次(行尾按可以选择正行,在{后按可以选择里面的内容),这个快捷键比`Ctrl+Shift+←/→`效率高,因为下一个词的标点和词被当作一个来选,可以试试
+* `Ctrl + W` : 选中词，可按多次(行尾按可以选择整行,在{后按可以选择里面的内容),这个快捷键比`Ctrl+Shift+←/→`效率高,因为下一个词的标点和词被当作一个来选,可以试试
 * `Ctrl + Shift + J` : 可以整合两行
 * `Ctrl + G` : 跳转到指定行
 * `F3 / Shift + F3` : 查找下/上一个
@@ -16,7 +16,7 @@
 * `Ctrl + Alt + L` : 格式化代码
 * `Ctrl + Alt + T` : 围绕代码
 * `Ctrl + Shift + 空格` ： 智能提示,空白处也能提示
-* `Alt + ↑/↓` : 移动到上/下一个方法名
+* `Alt + ↑/↓` : 光标移动到上/下一个方法名
 * `Ctrl + Shift + F12` : 最大化代码区,即隐藏其他区域,再按一次恢复
 * `Ctrl + Shift + 单引号` : 最大化工具区,即隐藏其他区域,再按一次恢复
 * `Shift + Esc` : 关闭当前工具区
@@ -31,7 +31,7 @@
 * `Ctrl + Shift + N` : 打开文件
 * `Ctrl + Shift + Backspace` : 返回上次编辑的地方
 * `Ctrl + Q` : 预览JavaDoc
-* `Ctrl + W` : 选中词，可按多次(行尾按可以选择正行,在{后按可以选择里面的内容),这个快捷键比Ctrl+Shift+←/→效率高,因为下一个词的标点和词被当作一个来选,可以试试
+* `Ctrl + W` : 选中词，可按多次(行尾按可以选择整行,在{后按可以选择里面的内容),这个快捷键比Ctrl+Shift+←/→效率高,因为下一个词的标点和词被当作一个来选,可以试试
 * `Alt + Insert` : 生成Getter/Setter/Contructor/toString/equals/hashCode/override/super/copyright/
 * `Ctrl + Y` : 删除一行
 * `F3/Shift + F3` : 查找下/上一个
