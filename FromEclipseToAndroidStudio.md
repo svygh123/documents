@@ -18,5 +18,7 @@
 10. 异常提醒及跳转精确到光标列位置。如TypeError: Cannot call method 'init' of undefined at Object.init (file:///android_asset/www/js/factory.js:136:35)，相信这种异常不会陌生吧，接下来就打开factory.js然后定位到136行35列，怎么快捷定位呢，用快捷键，打开资源文件在Android Studio里面是`Ctrl+Shift+N`，而Eclipse里面则是`Ctrl+Shift+R`，打开了吧，定位到行列在Android Studio里面是Ctrl+G(Excel也是这个)，而Eclipse里面则是`Ctrl+L`，这太麻烦了吧，要用2次快捷键，其实可以用一次的，直接复制`factory.js:136:35`然后`Ctrl+Shift+N`，如果搜索结果在第一个，直接再回车，而且在输入过程中不卡顿，Android Studio想的真周到,另外提一句`Ctrl+N`是打开Java资源的,还有一个快速打开资源文件的快捷键就是`按两次Shift`。关于这2个工具的快捷键对照，已有文章专门列举。
 11. 点击项目树，直接按键入字母即可查询，不过只能查找展开之后的文件
 12. 异常强大`Live Template`自动关补全模块。`psvm+tab`就产生了`main`方法,其中`psvm`就是前四个单词的首字母;`fori+tab`就产生了for方法;`foreach+tab`就产生foreach方法了;还有很多,不仅是java的还有`html,c,c++,groovy,maven`等，比如html的,`!!!+tab`就产生了`<!doctype html>`,`html:5+tab`就产生了一个基本的h5页面框架代码,`input:t`就产生了`<input type="text" name="光标位置" id=""/>`,还有一个surround(围绕)用法,选中一段代码,按`Ctrl+Alt+T`就可以选择用什么围绕这段代码了,可选有`if、while、try catch`等,如果你在html里面用的话,选中按键之后选择`Emmet`,输入围绕的东西即可。另外提一点,在java里面可以选择region...endregion Comments,这个是带折叠注释功能的,类似.net里的注释。还有太多太多人性化的模版了,需要去多用才行.此外,还可以自定义自己的模版.
-13. 未完待续......
+13. 修改html标签的时候,标签对一起修改的
+14. html中如果你写了style代码,会自动把里面的内容用...折叠起来,你需要单击才能查看
+15. 未完待续......
 
