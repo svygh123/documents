@@ -21,6 +21,7 @@
 * `Ctrl + Shift + 单引号` : 最大化工具区,即隐藏其他区域,再按一次恢复
 * `Shift + Esc` : 关闭当前工具区
 * `Ctrl + Shift + ↑/↓` : 将当前行上下移动,当光标在函数定义行时,则将当前函数上下移动
+* `Ctrl + Shift + A` : 查找动作,如Run,Build等
 
 ####更多详细
 * `Ctrl + J` : Live Template
