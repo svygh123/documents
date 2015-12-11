@@ -1714,3 +1714,7 @@
 1710. commit v. 把...提交给
 1711. complicate adj. 复杂的
 1712. debatable adj. 有疑问的,有争议的,成问题的
+1713. gut n. 内部,肠,内脏
+1714. mockup n. 实体模型,制造模型,制造样机
+1715. compact v. 紧凑 adj. 紧凑的
+1716. compress v. 压缩,精简,压紧
