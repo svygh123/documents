@@ -622,7 +622,7 @@
 618. well n. & a. 井;好,良好
 619. link n. & v. 链接;连接,联络
 620. according to a. 按照,根据
-621. identify v. 识别,辨认
+621. identify v. 识别,辨认,标识
 622. designated a. 指定的,特指的
 623. pertain vi. 附属,属于,关于
 624. expansion n. 展开,展开式
@@ -919,7 +919,7 @@
 915. navigate v. 导航,驾驶
 916. considered a. 考虑过的,被尊重的
 917. due a. 到期的,应付(给)的
-918. recently ad. 近来
+918. recently adv. 近来,最近
 919. room n. 房间,空间
 920. descend v. 下降,落下
 921. fact n. 事实
