@@ -22,6 +22,7 @@
 * `Shift + Esc` : 关闭当前工具区
 * `Ctrl + Shift + ↑/↓` : 将当前行上下移动,当光标在函数定义行时,则将当前函数上下移动
 * `Ctrl + Shift + A` : 查找动作,如Run,Build等
+* `Ctrl + Alt + V` : 将选中的代码抽取定义成一个变量,然后有Declare Final提示是否勾选定义成final类型
 
 ####更多详细
 * `Ctrl + J` : Live Template
