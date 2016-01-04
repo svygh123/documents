@@ -1718,3 +1718,21 @@
 1714. mockup n. 实体模型,制造模型,制造样机
 1715. compact v. 紧凑 adj. 紧凑的
 1716. compress v. 压缩,精简,压紧
+1717. directive n. 指令
+1718. embrace n. & v. 拥抱
+1719. deploy v. 部署,展开,配置
+1720. engine n. 引擎
+1721. transition n. 转变,过渡
+1722. migrate vi. 迁移,转移
+1723. blog n. 博客,日记,网络随笔
+1724. script n. 脚本
+1725. extensively adv. 广泛地
+1726. modal n. 模态
+1727. submit vt. 提交
+1728. benifit vt. 得益,受益,有益于,使受益 n. 好处,利益
+1729. collaborative adj. 协作的,合作的
+1730. community n. 社区,团体
+1731. paid adj. 付费的
+1732. propose vt. 提议,建议,打算,计划
+1733. premise n. 前提
+1734. bandwith n. 带宽
