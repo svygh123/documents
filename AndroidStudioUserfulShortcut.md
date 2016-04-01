@@ -24,6 +24,7 @@
 * `Ctrl + Shift + A` : 查找动作,如Run,Build等
 * `Ctrl + Alt + V` : 将选中的代码抽取定义成一个变量,然后有Declare Final提示是否勾选定义成final类型
 * `Alt + Enter` : 导入相应包声明(import packages)
+* `Ctrl + C` : 有选择区域时,复制区域内容,否则复制整行加一个换行
 
 ####更多详细
 * `Ctrl + J` : Live Template
